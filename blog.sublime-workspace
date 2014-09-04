@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gen",
+				"generate_confirmation_token"
+			],
+			[
+				"first",
+				"first_or_404"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Run Server",
+	"command_palette":
+	{
+		"height": 188.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"ssapy",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"copy path",
+				"File: Copy Path From Project Encoded"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/work-projects/python/flask-projects/gf-relational/app/jsonschema/user.json",
+		"/F/work-projects/python/flask-projects/gf-relational/Procfile",
+		"/F/work-projects/python/flask-projects/gf-relational/app/jsonschema/profile.json",
+		"/F/work-projects/python/flask-projects/gf-relational/app/api/feeds.py",
+		"/F/work-projects/python/flask-projects/gf-relational/tests/factories.py",
+		"/F/work-projects/python/flask-projects/gf-relational/gf-relational.sublime-project",
+		"/F/python-env/flask-app/lib/site-packages/celery/local.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/auth/views.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/admin/views.py",
+		"/F/work-projects/python/flask-projects/gf-relational/Vagrantfile",
+		"/F/work-projects/python/flask-projects/gf-relational/tests/test_base.py",
+		"/C/Users/gbozee/hello.py",
+		"/F/work-projects/python/flask-projects/gf-relational/migrations/env.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/static/css/pages/page_one.css",
+		"/F/work-projects/python/flask-projects/gf-relational/app/static/js/ui-select2.js",
+		"/F/work-projects/python/flask-projects/gf-relational/tests/models/__init__.py",
+		"/F/work-projects/python/flask-projects/gf-relational/config.py",
+		"/F/work-projects/python/flask-projects/gf-relational/celery.sh",
+		"/F/work-projects/python/flask-projects/gf-relational/app/api/__init__.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/main/views.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/static/css/pages/page_invoice.css",
+		"/F/work-projects/python/flask-projects/gf-relational/app/static/css/app.css",
+		"/F/work-projects/python/flask-projects/gf-relational/migrations/alembic.ini",
+		"/f/development/ide/Sublime-Text/Data/Packages/Gulp/Default (Windows).sublime-keymap",
+		"/f/development/ide/Sublime-Text/Data/Packages/Gulp/Gulp.sublime-settings",
+		"/F/work-projects/python/flask-projects/gf-relational/app/models.py",
+		"/F/work-projects/python/flask-projects/gf-relational/tests/models/test_tournaments.csv",
+		"/F/work-projects/python/flask-projects/gf-relational/.idea/modules.xml",
+		"/F/work-projects/python/flask-projects/gf-relational/app/templates/mobile.html",
+		"/F/work-projects/python/flask-projects/gf-relational/manage.py",
+		"/F/work-projects/python/flask-projects/gf-relational/app/__init__.py",
+		"/f/development/ide/Sublime-Text/Data/Packages/Anaconda/README.md",
+		"/F/work-projects/python/flask-projects/gf-relational/tests/models/test_team_model.py",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Python.sublime-settings",
+		"/F/work-projects/python/flask-projects/gf-relational/wrecker.yml",
+		"/F/work-projects/python/flask-projects/gf-relational/app/api/views.py",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Anaconda.sublime-settings",
+		"/F/work-projects/python/flask-projects/gf-relational/.vagrant/machines/default/virtualbox/action_provision",
+		"/f/development/ide/Sublime-Text/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/F/work-projects/python/flask-projects/gf-relational/requirements.txt",
+		"/F/work-projects/python/flask-projects/gf-relational/data-test.sqlite",
+		"/F/work-projects/python/flask-projects/gf-relational/teams.csv",
+		"/F/work-projects/python/flask-projects/gf-relational/.gitignore",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Preferences.sublime-settings",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Python Django.sublime-settings",
+		"/F/development/ide/Sublime-Text/Data/Packages/User/Python.sublime-settings",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/JSON.sublime-settings",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/f/development/ide/Sublime-Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/f/development/ide/Sublime-Text/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/f/development/ide/Sublime-Text/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/f/development/ide/Sublime-Text/Data/Packages/User/Distraction Free.sublime-settings",
+		"/F/work-projects/python/flask-projects/gf-relational/kelly.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n			\"cmd\":\n			[\n				\"F:/python-env/flask-app/Scripts/python\",\n				\"manage.py\",\n				\"test\"\n			],\n			\"name\": \"Run Tests\",\n			\"working_dir\": \"F:/work-projects/python/flask-projects/gf-relational\"\n		},",
+			"your",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user_",
+				"app\\templates\\user_details.html"
+			],
+			[
+				"feeds",
+				"app\\templates\\feeds.html"
+			],
+			[
+				"task",
+				"app\\tasks.py"
+			],
+			[
+				"views",
+				"app\\main\\views.py"
+			],
+			[
+				"models",
+				"app\\models.py"
+			],
+			[
+				"",
+				"app\\models.py"
+			],
+			[
+				"con",
+				"config.py"
+			],
+			[
+				"use",
+				"app\\api\\users.py"
+			],
+			[
+				"confi",
+				"config.py"
+			],
+			[
+				"api/user",
+				"app\\api\\users.py"
+			],
+			[
+				"test_post",
+				"tests\\models\\test_post_model.py"
+			],
+			[
+				"model/",
+				"tests\\models\\__init__.py"
+			],
+			[
+				"test_pos",
+				"tests\\models\\test_post_model.py"
+			],
+			[
+				"test",
+				"tests\\test_base.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\work-projects\\python\\flask-projects\\gf-relational\\gf-relational.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
