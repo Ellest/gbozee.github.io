@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+####Biola Oyeniyi
 
-### More Information
+A software developer by profession and critic writer.
 
-A place to include any other types of information that you'd like to include about yourself. 
+Enjoys watching TV Series.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gbozee@gmail.com](mailto:gbozee@gmail.com)
